@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    position: relative;
+    top:33px;
+}
+
+.input-group{
+}
+.item-icon{
+    font-size: 20px;
+}
+.strike{
+    text-decoration: line-through;
+}
+.complete-item{ color: green;} 
+.delete-item{color: rgb(238, 0, 0);} 
+.complete-item:hover{ color: rgb(0, 87, 0);} 
+.delete-item:hover{color: rgb(201, 0, 0);} 
